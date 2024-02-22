@@ -2,15 +2,15 @@
 
 const nextConfig = {
   env: {
-    name: 'kmal808 Registry',
-    description: 'Curated registry of custom KASM workspaces',
-    icon: '/img/logo.svg',
-    listUrl: 'https://kmal808.github.io/kasm-registry/',
-    contactUrl: 'https://github.com/kmal808/kasm-registry/issues',
+    name: 'couldron2 Technologies',
+    description: 'The official store for Kasm supported workspaces.',
+    icon: 'https://github.com/couldrons2022/kasm-registry/img/logo.svg',
+    listUrl: 'https://couldrons2022.github.io/kasm-registry-1/',
+    contactUrl: 'https://github.com/couldrons2022/kasm-registry-1/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/kasm-registry-1/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
